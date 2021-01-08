@@ -1,0 +1,11 @@
+
+\
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(Åı¤üÿÿÿÿ8¢ ¨Íí.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(–Õ…şÿÿÿÿ8šë°Íí.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Şú¡†üÿÿÿÿ8æ»¸Íí.
+m
+java:S1301&"KReplace this "switch" statement by "if" statements to increase readability.(ƒğ­§øÿÿÿÿ8 ‹“Íí.
+0
+java:S1220""Move this file to a named package.
+z	java:S131&"YComplete cases by adding the missing enum constants or add a default case to this switch.(ƒğ­§øÿÿÿÿ8 ‹“Íí.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Ö®¾ÿÿÿÿÿ8 ‹“Íí.
