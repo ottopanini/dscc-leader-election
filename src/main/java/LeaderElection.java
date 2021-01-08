@@ -42,6 +42,8 @@ public class LeaderElection implements Watcher {
             System.out.println("I am the leader");
             return;
         }
+
+        System.out.println("I'm not the leader, " + smallestChild + " is the leader");
     }
 
     public void connect2Zookeeper() throws IOException {
